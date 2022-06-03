@@ -1,0 +1,14 @@
+body::before {
+  display: block;
+  content: '';
+  height: 70px;
+}
+
+.no-dec {
+  text-decoration: none;
+  color: black;
+}
+
+.no-dec:hover {
+  color: #0DCAF0;
+}
